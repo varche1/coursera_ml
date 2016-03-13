@@ -1,0 +1,110 @@
+Execution time of get_scores_by_n_estimators is 0:01:08.863654 (args: (), kwargs: {'n_estimators': 5})
+Execution time of get_scores_by_n_estimators is 0:02:10.825859 (args: (), kwargs: {'n_estimators': 10})
+Execution time of get_scores_by_n_estimators is 0:04:18.049358 (args: (), kwargs: {'n_estimators': 20})
+Execution time of get_scores_by_n_estimators is 0:06:28.711359 (args: (), kwargs: {'n_estimators': 30})
+Execution time of get_scores_by_n_estimators is 0:10:57.007211 (args: (), kwargs: {'n_estimators': 50})
+Execution time of get_scores_by_n_estimators is 0:23:57.501626 (args: (), kwargs: {'n_estimators': 200}) - на 4 cpu
+
+
+[(5, 0.63567229284501381),
+ (10, 0.66483292280517681),
+ (20, 0.68211403588942632),
+ (30, 0.68969475738443753),
+ (50, 0.69711395472718607),
+ (200, 0.71345572174502792)]
+
+
+на 4 cpu:
+Execution time of get_scores_by_n_estimators is 0:00:37.064986 (args: (), kwargs: {'n_estimators': 5, 'learning_rate': 0.1})
+Execution time of get_scores_by_n_estimators is 0:01:10.593892 (args: (), kwargs: {'n_estimators': 10, 'learning_rate': 0.1})
+Execution time of get_scores_by_n_estimators is 0:02:20.969141 (args: (), kwargs: {'n_estimators': 20, 'learning_rate': 0.1})
+Execution time of get_scores_by_n_estimators is 0:03:30.098399 (args: (), kwargs: {'n_estimators': 30, 'learning_rate': 0.1})
+[(5, 0.63567229284501381),
+ (10, 0.66483292280517681),
+ (20, 0.68211403588942632),
+ (30, 0.68969475738443753)]
+
+на 4 cpu:
+Execution time of get_scores_by_n_estimators is 0:00:34.613357 (args: (), kwargs: {'n_estimators': 5, 'learning_rate': 0.3})
+Execution time of get_scores_by_n_estimators is 0:01:09.846374 (args: (), kwargs: {'n_estimators': 10, 'learning_rate': 0.3})
+Execution time of get_scores_by_n_estimators is 0:02:24.394737 (args: (), kwargs: {'n_estimators': 20, 'learning_rate': 0.3})
+Execution time of get_scores_by_n_estimators is 0:03:34.234059 (args: (), kwargs: {'n_estimators': 30, 'learning_rate': 0.3})
+[(5, 0.66757553317152574),
+ (10, 0.68391065189788258),
+ (20, 0.69569564732178879),
+ (30, 0.70111082036701922)]
+
+
+на 4 cpu:
+Execution time of get_scores_by_n_estimators is 0:00:36.060882 (args: (), kwargs: {'n_estimators': 5, 'learning_rate': 1})
+Execution time of get_scores_by_n_estimators is 0:01:08.573576 (args: (), kwargs: {'n_estimators': 10, 'learning_rate': 1})
+Execution time of get_scores_by_n_estimators is 0:02:15.525904 (args: (), kwargs: {'n_estimators': 20, 'learning_rate': 1})
+Execution time of get_scores_by_n_estimators is 0:03:23.752361 (args: (), kwargs: {'n_estimators': 30, 'learning_rate': 1})
+[(5, 0.66942573564417862),
+ (10, 0.68429133445062473),
+ (20, 0.69315172203195774),
+ (30, 0.69741480334874395)]
+
+
+
+на 4 cpu:
+Execution time of get_scores_by_n_estimators is 0:02:43.401583 (args: (), kwargs: {'n_estimators': 5, 'max_depth': 7})
+Execution time of get_scores_by_n_estimators is 0:05:39.435378 (args: (), kwargs: {'n_estimators': 10, 'max_depth': 7})
+Execution time of get_scores_by_n_estimators is 0:11:05.538972 (args: (), kwargs: {'n_estimators': 20, 'max_depth': 7})
+Execution time of get_scores_by_n_estimators is 0:14:54.515986 (args: (), kwargs: {'n_estimators': 30, 'max_depth': 7})
+[(5, 0.66820152933728605),
+ (10, 0.68276220749166805),
+ (20, 0.69533126543465829),
+ (30, 0.70097960026825368)]
+
+
+на 4 cpu:
+Execution time of get_scores_by_n_estimators is 0:00:27.244588 (args: (), kwargs: {'n_estimators': 5, 'max_depth': 2})
+Execution time of get_scores_by_n_estimators is 0:00:53.377334 (args: (), kwargs: {'n_estimators': 10, 'max_depth': 2})
+Execution time of get_scores_by_n_estimators is 0:01:42.559270 (args: (), kwargs: {'n_estimators': 20, 'max_depth': 2})
+Execution time of get_scores_by_n_estimators is 0:02:28.309379 (args: (), kwargs: {'n_estimators': 30, 'max_depth': 2})
+[(5, 0.62105499729740765),
+ (10, 0.65023045027880855),
+ (20, 0.67345957165053072),
+ (30, 0.68169518830751963)]
+
+
+
+
+на 4 cpu:
+Execution time of get_scores_by_n_estimators is 0:00:37.064986 (args: (), kwargs: {'n_estimators': 5, 'learning_rate': 0.1})
+Execution time of get_scores_by_n_estimators is 0:01:10.593892 (args: (), kwargs: {'n_estimators': 10, 'learning_rate': 0.1})
+Execution time of get_scores_by_n_estimators is 0:02:20.969141 (args: (), kwargs: {'n_estimators': 20, 'learning_rate': 0.1})
+Execution time of get_scores_by_n_estimators is 0:03:30.098399 (args: (), kwargs: {'n_estimators': 30, 'learning_rate': 0.1})
+[(5, 0.63567229284501381),
+ (10, 0.66483292280517681),
+ (20, 0.68211403588942632),
+ (30, 0.68969475738443753)]
+
+
+на 4 cpu:
+Execution time of get_scores_by_n_estimators is 0:00:30.966179 (args: (), kwargs: {'n_estimators': 5, 'subsample': 0.5})
+Execution time of get_scores_by_n_estimators is 0:01:05.492226 (args: (), kwargs: {'n_estimators': 10, 'subsample': 0.5})
+Execution time of get_scores_by_n_estimators is 0:02:02.404905 (args: (), kwargs: {'n_estimators': 20, 'subsample': 0.5})
+Execution time of get_scores_by_n_estimators is 0:02:59.354324 (args: (), kwargs: {'n_estimators': 30, 'subsample': 0.5})
+[(5, 0.64220889584215013),
+ (10, 0.66677761058921781),
+ (20, 0.68291374923937576),
+ (30, 0.69013065252340833)]
+
+на 4 cpu:
+Execution time of get_scores_by_n_estimators is 0:20:11.380728 (args: (), kwargs: {'n_estimators': 200, 'subsample': 0.7, 'learning_rate': 0.3})
+Execution time of get_scores_by_n_estimators is 0:40:53.841561 (args: (), kwargs: {'n_estimators': 400, 'subsample': 0.7, 'learning_rate': 0.3})
+Execution time of get_scores_by_n_estimators is 1:12:03.034461 (args: (), kwargs: {'n_estimators': 700, 'subsample': 0.7, 'learning_rate': 0.3})
+Execution time of get_scores_by_n_estimators is 1:43:07.855042 (args: (), kwargs: {'n_estimators': 1000, 'subsample': 0.7, 'learning_rate': 0.3})
+[(200, 0.71532383145178025),
+ (400, 0.71471199024982923),
+ (700, 0.70978495252079088),
+ (1000, 0.70645424347752162)]
+
+
+Бустинг над решающими деревьями считается одним из наиболее эффективных методов с точки зрения качества классификации. Во многих экспериментах наблюдалось практически неограниченное уменьшение частоты ошибок на независимой тестовой выборке по мере наращивания композиции. 
+
+
+Что бы вы предложили делать, чтобы ускорить его обучение при увеличении количества деревьев:
+1) Уменьшить 
